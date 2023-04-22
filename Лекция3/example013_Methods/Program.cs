@@ -127,8 +127,7 @@ void SelectionSort(int[] array)
 }
 
 PrintArray(arr);
-// SelectionSort(arr);
-// PrintArray(arr);
+//  
 void SelectionSort1(int[] array)
 {
     for (int i = 0; i < array.Length - 1; i++)
